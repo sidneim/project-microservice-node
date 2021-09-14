@@ -22,3 +22,5 @@ curl --location --request POST 'localhost:3000/user/add' \
 ]'
 
 O serviço "restproduct" não está finalizado.
+
+Obs: O projeto foi montado com vários exemplos da internet e sendo adaptado para o melhor entendimento de como tudo funciona no node 
